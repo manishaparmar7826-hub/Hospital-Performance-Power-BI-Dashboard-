@@ -1,1 +1,2 @@
 # Hospital-Performance-Power-BI-Dashboard-
+Hospital performance reflects how effectively healthcare services are delivered in terms of patient care, resource utilization, and satisfaction. Key metrics such as patient inflow, waiting time, admission rates, and referrals help evaluate efficiency. Monitoring these factors enables hospitals to reduce delays, optimize resources, and enhance the overall patient experience.
